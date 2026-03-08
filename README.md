@@ -4,6 +4,7 @@ Project Overview :-
 This project performs a comprehensive data analysis on a retail dataset containing 100,000 transaction records. The objective is to clean raw transaction data, perform exploratory analysis to understand customer behavior, and prepare a final dataset for reporting.
 
 Analysis Workflow :-
+
 The analysis follows a structured process as documented in the Pythonfile.ipynb notebook:
 
 1. Environment Setup :-
