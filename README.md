@@ -6,7 +6,7 @@ This project performs a comprehensive data analysis on a retail dataset containi
 Analysis Workflow :-
 The analysis follows a structured process as documented in the Pythonfile.ipynb notebook:
 
-1. Environment 'Setup' :-
+1. Environment Setup :-
 Libraries: Utilizes pandas, numpy, matplotlib, and seaborn for data manipulation and visualization.
 
 Data Loading: Imports raw data from retailpulse_data.csv.
