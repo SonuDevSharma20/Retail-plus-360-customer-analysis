@@ -1,66 +1,16 @@
-Data analysis on Retail Transaction Data
+Retail Data Analysis with Python
 
-Project :-
+Just like the name suggests, this repo contains the complete end-to-end data analysis of a large dataset of a retail company. In this project, you will learn how to perform data cleaning, Exploratory Data Analysis(EDA) , meaningful interpretation of the findings in Python, on real-world data.
+The dataset contains more than 100000 rows (records) and 13 columns (features) of data, which I performed EDA on, including some additional analyses.
+The retail shop has around 13 categorical features: Transaction ID, Date, Payment Method, Customer Name, Age, City, Segment (Budget, Regular, Premium), Category (Fashion, Electronics, Home & Kitchen), Product Name, Quantity, Unit Price.
+From this dataset, I will try to find out how where and what is the customers spending the most.
+It also contains a lot of information about the customers and their demographics, like the number of customers in 15 different cities and between the ages of 18 and 70.
+The contents of the readme are:
+The repository contains 3 files: The Pythonfile.ipynb file contains the entire analysis of the dataset, retailpulse_data.csv contains the raw data and cleaned_dataset.csv contains the final dataset.
+The technologies used in the analysis are:Python Pandas, NumPy, Matplotlib and Seaborn
+The environment used to run the code was google colab
+Installation: just clone this repo and run the python notebook.
+Result: I managed to clean up the dataset from .csv logs and output a final cleaned dataset which is available in this repo.
+The analysis contained a lot of interesting findings such as the best cities for the retail shop, what ages and segments they cater to etc.
 
-In the current project, we will be performing the data analysis on the retail data set having 100 Thousand transaction data.
-Perform Data cleaning on the data;
-
-The current data set is raw and need to be pruned to get the final dataset which will be used for reporting purposes;
-The project will be completed in the following manner;
-
-Exploratory analysis of the data set;
-
-Wrap up the analysis in a report.
-The analysis has been done in the Notebook Pythonfile.ipynb
-Here's the process;
-
-Set up the environment
-Set up the libraries;
-pandas;
-numpy;
-matplotlib;
-seaborn;
-
-Read the raw dataset (retailpulse_data.csv);
-
-Check the shape of the dataset;
-
-It tells us about the nature or size of the dataset. In this case, it's 100,000 transactions
-
-Check the contents of the dataset;
-
-Look at the first few rows of the data
-
-Look at the column names;
-
-Total amount;
-
-product_category
-
-determine the type of analysis that will be done;
-
-Perform Exploratory data analysis;
-
-Check the statistical content of the data;
-
-Check the type of customers (Age 18 to 70);
-
-Check the distribution of the customers (SMS, email, card);
-
-Wrap up the analysis;
-
-Create a summary of the data;
-
-Check the distribution
-by city;
-
-Check the distribution;
-
-by category (product_category);
-
-Check the distribution;
-
-by payment type;
-
-Wrap up all the above into a file called cleaned_Dataset.csv;
-
+Hello! <br> <br> I am a self-taught Data Analyst, Data Scientist, Machine Learning Engineer, and Full Stack Developer with a background in Computer Science. I am highly motivated and always eager to learn new skills. <br> <br> I am passionate about using my skills to solve real-world problems and make a positive impact. <br> <br> Thank you for visiting my website, and I look forward to connecting with you.
